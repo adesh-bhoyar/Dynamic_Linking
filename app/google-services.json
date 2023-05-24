@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308910966611",
+    "project_id": "dynamic-linking-3195c",
+    "storage_bucket": "dynamic-linking-3195c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308910966611:android:30cdf7c6ff18acf7c303a6",
+        "android_client_info": {
+          "package_name": "com.cluematrix.dynamiclinking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308910966611-e6rl4ov2n8697h80ov1s9f7t3h6u8ist.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdkTF1n2e9j-__ldH7V6QqLptlq4bYaBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308910966611-e6rl4ov2n8697h80ov1s9f7t3h6u8ist.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
